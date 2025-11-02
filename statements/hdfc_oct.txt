@@ -1,0 +1,12 @@
+HDFC Credit Card Statement
+Card No: XXXX-XXXX-XXXX-1234
+Statement Period: 01/10/2024 - 31/10/2024
+Payment Due Date: 10/11/2024
+Total Amount Due: ₹ 2,569.45
+
+Transactions:
+01/10/2024  AMAZON PURCHASE             1500.00 DR
+03/10/2024  ZOMATO ORDER                 320.00 DR
+05/10/2024  NETFLIX SUBSCRIPTION         499.00 DR
+10/10/2024  SALARY CREDIT               5000.00 CR
+

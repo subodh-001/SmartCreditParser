@@ -1,0 +1,30 @@
+[
+  {
+    "Date":"01\/10\/2024",
+    "Description":"AMAZON PURCHASE",
+    "Amount":-1500.0,
+    "Type":"DR",
+    "Balance":-1500.0
+  },
+  {
+    "Date":"03\/10\/2024",
+    "Description":"ZOMATO ORDER",
+    "Amount":-320.0,
+    "Type":"DR",
+    "Balance":-1820.0
+  },
+  {
+    "Date":"05\/10\/2024",
+    "Description":"NETFLIX SUBSCRIPTION",
+    "Amount":-499.0,
+    "Type":"DR",
+    "Balance":-2319.0
+  },
+  {
+    "Date":"10\/10\/2024",
+    "Description":"SALARY CREDIT",
+    "Amount":5000.0,
+    "Type":"CR",
+    "Balance":2681.0
+  }
+]

@@ -1,0 +1,4 @@
+2025-11-02 15:58:38,915 - INFO - Extracting text from: statements/hdfc_oct.pdf
+2025-11-02 15:58:38,924 - INFO - Text extraction successful using pdfplumber.
+2025-11-02 16:05:04,667 - INFO - Extracting text from: statements/hdfc_oct.pdf
+2025-11-02 16:05:04,675 - INFO - Text extraction successful using pdfplumber.
