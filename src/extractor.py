@@ -3,10 +3,7 @@ from pdf2image import convert_from_path
 import pytesseract
 
 def extract_text_from_pdf(file_path):
-    """
-    Extracts text from PDF using pdfplumber first,
-    then falls back to OCR if needed.
-    """
+    
     text = ""
     try:
         with pdfplumber.open(file_path) as pdf:
